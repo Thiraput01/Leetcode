@@ -9,6 +9,7 @@
 | [0057-insert-interval](https://github.com/Thiraput01/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Thiraput01/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Thiraput01/Leetcode/tree/master/0078-subsets) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Hash Table
 |  |
@@ -80,4 +81,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Thiraput01/Leetcode/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Thiraput01/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Thiraput01/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
