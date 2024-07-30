@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Thiraput01/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thiraput01/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0057-insert-interval](https://github.com/Thiraput01/Leetcode/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Hash Table
 |  |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Thiraput01/Leetcode/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
