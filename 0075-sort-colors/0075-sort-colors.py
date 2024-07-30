@@ -3,7 +3,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        tmp = sorted(nums)
-        for i in range(len(nums)):
-            nums[i] = tmp[i]
-        
+        n = len(nums)
+        l, r = 0, n-1
+        i = 0
+        while i <= r:
+            if nums[i] == 0:
+                nums[i], nums[l] = nums[l], nums[i]
+                l += 1
+            elif nums[i] == 2:
+                nums[i], nums[r] = nums[r], nums[i]
+                r -= 1
+                i -= 1
+            i += 1
