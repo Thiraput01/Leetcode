@@ -13,6 +13,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Thiraput01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Thiraput01/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Thiraput01/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Thiraput01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
