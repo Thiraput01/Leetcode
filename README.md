@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thiraput01/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0057-insert-interval](https://github.com/Thiraput01/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Thiraput01/Leetcode/tree/master/0075-sort-colors) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Thiraput01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thiraput01/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Thiraput01/Leetcode/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Thiraput01/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
