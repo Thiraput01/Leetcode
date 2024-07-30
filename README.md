@@ -5,8 +5,17 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thiraput01/Leetcode/tree/master/0001-two-sum) |
+| [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thiraput01/Leetcode/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
