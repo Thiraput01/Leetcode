@@ -13,12 +13,14 @@
 | [0088-merge-sorted-array](https://github.com/Thiraput01/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thiraput01/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thiraput01/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thiraput01/Leetcode/tree/master/0001-two-sum) |
+| [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +32,7 @@
 | [0115-distinct-subsequences](https://github.com/Thiraput01/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thiraput01/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Thiraput01/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -64,6 +67,7 @@
 | [0097-interleaving-string](https://github.com/Thiraput01/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Thiraput01/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Thiraput01/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -82,6 +86,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Thiraput01/Leetcode/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +105,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Thiraput01/Leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Thiraput01/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +132,8 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Thiraput01/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
