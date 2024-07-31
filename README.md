@@ -29,6 +29,7 @@
 | [0097-interleaving-string](https://github.com/Thiraput01/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Thiraput01/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thiraput01/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Thiraput01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -62,6 +63,7 @@
 | [0072-edit-distance](https://github.com/Thiraput01/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Thiraput01/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Thiraput01/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Thiraput01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Thiraput01/Leetcode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Thiraput01/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
