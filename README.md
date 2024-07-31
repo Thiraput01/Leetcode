@@ -17,6 +17,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Thiraput01/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Thiraput01/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Thiraput01/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Thiraput01/Leetcode/tree/master/0200-number-of-islands) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Hash Table
@@ -48,6 +49,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Thiraput01/Leetcode/tree/master/0200-number-of-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Thiraput01/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Thiraput01/Leetcode/tree/master/0200-number-of-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Thiraput01/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/Thiraput01/Leetcode/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
 | ------- |
@@ -149,4 +153,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Thiraput01/Leetcode/tree/master/0169-majority-element) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Thiraput01/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
