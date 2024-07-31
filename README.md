@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thiraput01/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Thiraput01/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Thiraput01/Leetcode/tree/master/0169-majority-element) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Hash Table
@@ -22,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Thiraput01/Leetcode/tree/master/0001-two-sum) |
 | [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/Thiraput01/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Thiraput01/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Thiraput01/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Thiraput01/Leetcode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thiraput01/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Thiraput01/Leetcode/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -139,4 +143,8 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Thiraput01/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
