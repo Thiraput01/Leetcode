@@ -25,6 +25,7 @@
 | [0312-burst-balloons](https://github.com/Thiraput01/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Thiraput01/Leetcode/tree/master/0330-patching-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -34,6 +35,7 @@
 | [0001-two-sum](https://github.com/Thiraput01/Leetcode/tree/master/0001-two-sum) |
 | [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Thiraput01/Leetcode/tree/master/0169-majority-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0075-sort-colors](https://github.com/Thiraput01/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Thiraput01/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Thiraput01/Leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -120,6 +123,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -133,6 +137,7 @@
 | [0088-merge-sorted-array](https://github.com/Thiraput01/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Thiraput01/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiraput01/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Backtracking
 |  |
 | ------- |
