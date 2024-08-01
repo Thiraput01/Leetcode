@@ -28,6 +28,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/Thiraput01/Leetcode/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/Thiraput01/Leetcode/tree/master/0502-ipo) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -148,6 +149,7 @@
 | [0169-majority-element](https://github.com/Thiraput01/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiraput01/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/Thiraput01/Leetcode/tree/master/0502-ipo) |
 ## Backtracking
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiraput01/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/Thiraput01/Leetcode/tree/master/0502-ipo) |
 ## Quickselect
 |  |
 | ------- |
@@ -233,6 +236,7 @@
 | [0330-patching-array](https://github.com/Thiraput01/Leetcode/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/Thiraput01/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Thiraput01/Leetcode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Thiraput01/Leetcode/tree/master/0502-ipo) |
 ## Randomized
 |  |
 | ------- |
