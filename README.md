@@ -26,6 +26,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Thiraput01/Leetcode/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -36,6 +37,7 @@
 | [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Thiraput01/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0070-climbing-stairs](https://github.com/Thiraput01/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Thiraput01/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Thiraput01/Leetcode/tree/master/0231-power-of-two) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Combinatorics
 |  |
 | ------- |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Thiraput01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
@@ -216,4 +220,8 @@
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/Thiraput01/Leetcode/tree/master/0330-patching-array) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
