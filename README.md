@@ -65,6 +65,7 @@
 | [0494-target-sum](https://github.com/Thiraput01/Leetcode/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Thiraput01/Leetcode/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/Thiraput01/Leetcode/tree/master/0518-coin-change-ii) |
+| [0552-student-attendance-record-ii](https://github.com/Thiraput01/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
