@@ -60,6 +60,7 @@
 | [0312-burst-balloons](https://github.com/Thiraput01/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/Thiraput01/Leetcode/tree/master/0494-target-sum) |
+| [0514-freedom-trail](https://github.com/Thiraput01/Leetcode/tree/master/0514-freedom-trail) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -73,6 +74,7 @@
 | [0200-number-of-islands](https://github.com/Thiraput01/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Thiraput01/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0514-freedom-trail](https://github.com/Thiraput01/Leetcode/tree/master/0514-freedom-trail) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Thiraput01/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
@@ -104,6 +106,7 @@
 | [0344-reverse-string](https://github.com/Thiraput01/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Thiraput01/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Thiraput01/Leetcode/tree/master/0409-longest-palindrome) |
+| [0514-freedom-trail](https://github.com/Thiraput01/Leetcode/tree/master/0514-freedom-trail) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -194,6 +197,7 @@
 | [0200-number-of-islands](https://github.com/Thiraput01/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Thiraput01/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0514-freedom-trail](https://github.com/Thiraput01/Leetcode/tree/master/0514-freedom-trail) |
 ## Trie
 |  |
 | ------- |
