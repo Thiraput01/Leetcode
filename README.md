@@ -24,6 +24,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Thiraput01/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Thiraput01/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/Thiraput01/Leetcode/tree/master/0330-patching-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -204,4 +205,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/Thiraput01/Leetcode/tree/master/0330-patching-array) |
 <!---LeetCode Topics End-->
