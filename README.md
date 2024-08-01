@@ -92,6 +92,7 @@
 | [0062-unique-paths](https://github.com/Thiraput01/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Thiraput01/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Thiraput01/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Thiraput01/Leetcode/tree/master/0231-power-of-two) |
 ## Combinatorics
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Thiraput01/Leetcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Thiraput01/Leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Thiraput01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Thiraput01/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
