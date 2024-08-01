@@ -31,6 +31,7 @@
 | [0502-ipo](https://github.com/Thiraput01/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Thiraput01/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Thiraput01/Leetcode/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -43,6 +44,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/Thiraput01/Leetcode/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Thiraput01/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Thiraput01/Leetcode/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -254,4 +257,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Thiraput01/Leetcode/tree/master/0402-remove-k-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
