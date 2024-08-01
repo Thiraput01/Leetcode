@@ -27,6 +27,7 @@
 | [0330-patching-array](https://github.com/Thiraput01/Leetcode/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0494-target-sum](https://github.com/Thiraput01/Leetcode/tree/master/0494-target-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -56,6 +57,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Thiraput01/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Thiraput01/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0494-target-sum](https://github.com/Thiraput01/Leetcode/tree/master/0494-target-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -152,6 +154,7 @@
 | [0078-subsets](https://github.com/Thiraput01/Leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Thiraput01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/Thiraput01/Leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
