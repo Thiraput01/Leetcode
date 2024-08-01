@@ -29,6 +29,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/Thiraput01/Leetcode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Thiraput01/Leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Thiraput01/Leetcode/tree/master/0506-relative-ranks) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -150,6 +151,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiraput01/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/Thiraput01/Leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Thiraput01/Leetcode/tree/master/0506-relative-ranks) |
 ## Backtracking
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiraput01/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/Thiraput01/Leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Thiraput01/Leetcode/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
