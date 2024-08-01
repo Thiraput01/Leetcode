@@ -96,6 +96,7 @@
 | [0131-palindrome-partitioning](https://github.com/Thiraput01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
 | [0344-reverse-string](https://github.com/Thiraput01/Leetcode/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Thiraput01/Leetcode/tree/master/0402-remove-k-digits) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -103,6 +104,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Thiraput01/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Thiraput01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Thiraput01/Leetcode/tree/master/0402-remove-k-digits) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Math
 |  |
@@ -220,8 +222,13 @@
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/Thiraput01/Leetcode/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/Thiraput01/Leetcode/tree/master/0402-remove-k-digits) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Thiraput01/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
