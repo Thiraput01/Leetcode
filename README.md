@@ -79,11 +79,13 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Thiraput01/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0514-freedom-trail](https://github.com/Thiraput01/Leetcode/tree/master/0514-freedom-trail) |
+| [0547-number-of-provinces](https://github.com/Thiraput01/Leetcode/tree/master/0547-number-of-provinces) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Thiraput01/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/Thiraput01/Leetcode/tree/master/0547-number-of-provinces) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Thiraput01/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Shortest Path
 |  |
@@ -203,6 +205,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Thiraput01/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0514-freedom-trail](https://github.com/Thiraput01/Leetcode/tree/master/0514-freedom-trail) |
+| [0547-number-of-provinces](https://github.com/Thiraput01/Leetcode/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
 | ------- |
@@ -215,6 +218,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Thiraput01/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Thiraput01/Leetcode/tree/master/0547-number-of-provinces) |
 ## Design
 |  |
 | ------- |
