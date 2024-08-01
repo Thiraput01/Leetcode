@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findMaximizedCapital(int k, int w, vector<int>& profits, vector<int>& capital) {
-        ios_base::sync_with_stdio(false);
+        ios_base::sync_with_stdio(false); cin.tie(0);   
         priority_queue<int> maxHeap;
         multiset<pair<int, int>> minHeap;
         int n = profits.size();
