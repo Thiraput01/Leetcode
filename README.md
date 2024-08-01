@@ -67,6 +67,7 @@
 | [0518-coin-change-ii](https://github.com/Thiraput01/Leetcode/tree/master/0518-coin-change-ii) |
 | [0552-student-attendance-record-ii](https://github.com/Thiraput01/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/Thiraput01/Leetcode/tree/master/0576-out-of-boundary-paths) |
+| [0629-k-inverse-pairs-array](https://github.com/Thiraput01/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
