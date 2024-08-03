@@ -34,6 +34,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Thiraput01/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -46,6 +47,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/Thiraput01/Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/Thiraput01/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Thiraput01/Leetcode/tree/master/0506-relative-ranks) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Backtracking
 |  |
 | ------- |
