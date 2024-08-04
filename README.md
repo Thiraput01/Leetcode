@@ -33,6 +33,7 @@
 | [0518-coin-change-ii](https://github.com/Thiraput01/Leetcode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Thiraput01/Leetcode/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/Thiraput01/Leetcode/tree/master/0648-replace-words) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -50,6 +51,7 @@
 | [0409-longest-palindrome](https://github.com/Thiraput01/Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Thiraput01/Leetcode/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/Thiraput01/Leetcode/tree/master/0648-replace-words) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Dynamic Programming
 |  |
@@ -127,6 +129,7 @@
 | [0409-longest-palindrome](https://github.com/Thiraput01/Leetcode/tree/master/0409-longest-palindrome) |
 | [0514-freedom-trail](https://github.com/Thiraput01/Leetcode/tree/master/0514-freedom-trail) |
 | [0647-palindromic-substrings](https://github.com/Thiraput01/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/Thiraput01/Leetcode/tree/master/0648-replace-words) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -231,6 +234,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Thiraput01/Leetcode/tree/master/0140-word-break-ii) |
+| [0648-replace-words](https://github.com/Thiraput01/Leetcode/tree/master/0648-replace-words) |
 ## Counting
 |  |
 | ------- |
