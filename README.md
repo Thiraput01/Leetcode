@@ -53,6 +53,7 @@
 | [0645-set-mismatch](https://github.com/Thiraput01/Leetcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Thiraput01/Leetcode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Thiraput01/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0726-number-of-atoms](https://github.com/Thiraput01/Leetcode/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Dynamic Programming
 |  |
@@ -134,6 +135,7 @@
 | [0648-replace-words](https://github.com/Thiraput01/Leetcode/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/Thiraput01/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Thiraput01/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0726-number-of-atoms](https://github.com/Thiraput01/Leetcode/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -143,6 +145,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Thiraput01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Thiraput01/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Thiraput01/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0726-number-of-atoms](https://github.com/Thiraput01/Leetcode/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Math
 |  |
@@ -189,6 +192,7 @@
 | [0506-relative-ranks](https://github.com/Thiraput01/Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Thiraput01/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Thiraput01/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0726-number-of-atoms](https://github.com/Thiraput01/Leetcode/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Thiraput01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Backtracking
