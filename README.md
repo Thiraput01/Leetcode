@@ -32,6 +32,7 @@
 | [0506-relative-ranks](https://github.com/Thiraput01/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Thiraput01/Leetcode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/Thiraput01/Leetcode/tree/master/0645-set-mismatch) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -48,6 +49,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/Thiraput01/Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/Thiraput01/Leetcode/tree/master/0645-set-mismatch) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Dynamic Programming
 |  |
@@ -174,6 +176,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/Thiraput01/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Thiraput01/Leetcode/tree/master/0506-relative-ranks) |
+| [0645-set-mismatch](https://github.com/Thiraput01/Leetcode/tree/master/0645-set-mismatch) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Thiraput01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Backtracking
@@ -189,6 +192,7 @@
 | [0078-subsets](https://github.com/Thiraput01/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Thiraput01/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Thiraput01/Leetcode/tree/master/0260-single-number-iii) |
+| [0645-set-mismatch](https://github.com/Thiraput01/Leetcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
