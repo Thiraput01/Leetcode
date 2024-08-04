@@ -107,6 +107,7 @@
 | [0088-merge-sorted-array](https://github.com/Thiraput01/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Thiraput01/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Thiraput01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Thiraput01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
@@ -139,6 +140,7 @@
 | [0231-power-of-two](https://github.com/Thiraput01/Leetcode/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Thiraput01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thiraput01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Thiraput01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Thiraput01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Matrix
 |  |
