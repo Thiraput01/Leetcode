@@ -55,6 +55,7 @@
 | [0692-top-k-frequent-words](https://github.com/Thiraput01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Thiraput01/Leetcode/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thiraput01/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0726-number-of-atoms](https://github.com/Thiraput01/Leetcode/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Thiraput01/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/Thiraput01/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thiraput01/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0726-number-of-atoms](https://github.com/Thiraput01/Leetcode/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Thiraput01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thiraput01/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -251,6 +254,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Thiraput01/Leetcode/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/Thiraput01/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thiraput01/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -292,6 +296,7 @@
 | [0409-longest-palindrome](https://github.com/Thiraput01/Leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Thiraput01/Leetcode/tree/master/0502-ipo) |
 | [0678-valid-parenthesis-string](https://github.com/Thiraput01/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thiraput01/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Randomized
 |  |
 | ------- |
