@@ -34,6 +34,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Thiraput01/Leetcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Thiraput01/Leetcode/tree/master/0648-replace-words) |
+| [0870-magic-squares-in-grid](https://github.com/Thiraput01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Thiraput01/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Thiraput01/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Thiraput01/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -55,6 +56,7 @@
 | [0648-replace-words](https://github.com/Thiraput01/Leetcode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Thiraput01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Thiraput01/Leetcode/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/Thiraput01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thiraput01/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thiraput01/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -162,6 +164,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Thiraput01/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/Thiraput01/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Thiraput01/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/Thiraput01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -185,6 +188,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Thiraput01/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thiraput01/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/Thiraput01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Thiraput01/Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Sorting
 |  |
